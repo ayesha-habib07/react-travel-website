@@ -1,0 +1,138 @@
+
+.line{
+    color:rgb(139, 92, 214);
+    font-weight: bold;
+    font-size: 30px;
+}
+/* .leftArrow{
+    background-color:rgb(139, 92, 214);
+    color: white;
+}
+.rightArrow{
+    background-color: grey;
+    color: black;
+} */
+.cardName{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0px;
+}
+.cardName>div{
+    font-size: 20px;
+}
+.PopularSection{
+    padding-bottom: 40px;
+}
+.sliderSection{
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 20px;
+    color: grey;
+}
+.sliderBtn{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 30px;
+    color: grey;
+}
+.sliderBtn h2{
+    font-size: 40px;
+    padding-bottom: 5px;
+}
+.p-card{
+    gap: 0.6rem;
+    padding: 1rem;
+    border-radius: 10px;
+    max-width: max-content;
+    margin: auto;
+    transition: all 300ms ease-in;
+    border-radius: 15px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+
+}
+.p-card>img{
+    width: 100%;
+    /* max-width: 15rem; */
+    /* height: 30vh; */
+    border-radius: 15px;
+}
+.p-card>:nth-child(2){
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.p-card>:nth-child(3){
+    font-size:1.5rem ;
+}
+.p-card>:nth-child(4){
+    font-size: 0.7rem;
+    width: 15rem;
+}
+.p-card:hover{
+    scale: 1.025;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgba(227, 226, 226, 0.51);
+    box-shadow: 0px 72px 49px -51px rgba(136,160,255,0.21);
+}
+.p-price{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+@media screen and (max-width:1082px){
+    .PopularSection{
+        padding-top: 30px;
+    }
+}
+@media screen and (max-width:1082px){
+    .PopularSection{
+        padding-top: 26%;
+    }
+    .sliderBtn h2{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:826px){
+    .sliderBtn{
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+@media screen and (max-width:769px){
+    .sliderBtn{
+        padding-top: 30px;
+    }
+}
+@media screen and (max-width:720px){
+    .sliderBtn{
+        padding-top: 40px;
+    }
+}
+@media screen and (max-width:686px){
+    .sliderBtn{
+        padding-top: 70px;
+    }
+}
+@media screen and (max-width:600px){
+    .sliderBtn{
+        padding-top: 80px;
+    }
+}
+@media screen and (max-width:550px){
+    .sliderBtn{
+        padding-top: 90px;
+    }
+}
+@media screen and (max-width:490px){
+    .sliderBtn{
+        padding-top: 110px;
+        padding-bottom: 10px;
+    }
+}
+@media screen and (max-width:420px){
+    .sliderBtn{
+        padding-top: 130px;
+    }
+}

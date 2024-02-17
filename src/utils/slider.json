@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "01",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "./popular1.jpg"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "02",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./popular2.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "03",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image": "./popular8.jpg"
+    },
+    {
+      "name": "Aliva Priva Jardin",
+      "price": "04",
+      "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+      "image": "./popular4.jpg"
+    },
+    {
+      "name": "Asatti Garden City",
+      "price": "05",
+      "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+      "image": "./popular5.jpg"
+    },
+    {
+      "name": "Citralan Puri Serang",
+      "price": "06",
+      "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+      "image":"./popular6.jpg"
+    },
+    {
+        "name": "Aliva Priva Jardin",
+        "price": "07",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+        "image": "./popular7.jpg"
+      },
+      {
+        "name": "Asatti Garden City",
+        "price": "08",
+        "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+        "image": "./popular8.jpg"
+      },
+      {
+        "name": "Citralan Puri Serang",
+        "price": "09",
+        "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+        "image": "./popular2.jpg"
+      },
+      {
+        "name": "Aliva Priva Jardin",
+        "price": "10",
+        "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+        "image": "./popular1.jpg"
+      }
+  ]

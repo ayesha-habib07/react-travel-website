@@ -1,0 +1,35 @@
+export const data=[
+    {
+       image:"./house1.jpg",
+       price:7452 ,
+       rent:"For Rent",
+       BedRoom:"2 Beds",
+       Bath: "1 Bath",
+       Wifi:"Wi-Fi",
+       Shuttle:"Shuttle",
+       address:"450Vine St #310,peru",
+       detail:"View Details",
+    },
+    {
+        image:"./house2.jpg",
+        price:7452 ,
+        rent:"For Rent",
+        BedRoom:"2 Beds",
+        Bath: "1 Bath",
+        Wifi:"Wi-Fi",
+        Shuttle:"Shuttle",
+        address:"450Vine St #310,peru",
+        detail:"View Details",
+     },
+     {
+        image:"./house3.jpg",
+        price:7452 ,
+        rent:"For Rent",
+        BedRoom:"2 Beds",
+        Bath: "1 Bath",
+        Wifi:"Wi-Fi",
+        Shuttle:"Shuttle",
+        address:"450Vine St #310,peru",
+        detail:"View Details",
+     }
+]

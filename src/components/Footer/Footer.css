@@ -1,0 +1,24 @@
+.footerDiv{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    color: grey;
+    padding-bottom: 30px;
+    flex-wrap: wrap;
+}
+.dot{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.box{
+    padding: 10px;
+}
+.box>div{
+    padding: 5px 5px;
+}
+.social-icons{
+    display: flex;
+    gap:5px;
+}
